@@ -1,18 +1,21 @@
-const int PushBtn=10,PushBtn_G=8,FlipSwt=11,FlipSwt_G=9;
-int inp=0;
+const int PushBtn=8,Motor_selector=9,FlipSwt=10;
+int inp=0,motor;
 long start_time,stop_time;
 void setup(){
   //Setting up the pins for controlling the table
-  pinMode(PushBtn,OUTPUT);
-  pinMode(PushBtn_G,OUTPUT);
-  pinMode(FlipSwt,OUTPUT);
-  pinMode(FlipSwt_G,OUTPUT);
-  digitalWrite(PushBtn_G,0);
-  digitalWrite(FlipSwt_G,0);
+  pinMode(PushBtn,OUTPUT);//RY1 & RY3
+  pinMode(Motor_selector,OUTPUT);//RY2
+  pinMode(FlipSwt,OUTPUT);//RY4
+  digitalWrite(Motor_selector,0);
+  digitalWrite(FlipSwt,0);
+  digitalWrite(PushBtn,0);
   Serial.begin(9600);
 }
 void loop(){
- 
+ while (Serial.available()==0);
+ motor=Serial.parseFloat();
+ if (motor==1){digitalWrite(Motor_selector,1);}
+ else{digitalWrite(Motor_selector,0);}
   
  while (Serial.available()==0);
  
