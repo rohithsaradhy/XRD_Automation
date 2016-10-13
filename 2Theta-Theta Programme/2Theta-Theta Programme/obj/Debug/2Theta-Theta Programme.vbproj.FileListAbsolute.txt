@@ -1,0 +1,46 @@
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.exe.config
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.exe
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.pdb
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.xml
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.Form1.resources
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.Resources.resources
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.vbproj.GenerateResource.Cache
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.exe
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.xml
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.pdb
+c:\users\rohithsaradhy\documents\visual studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.DETECTOR_ANGLE.resources
+C:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.vbprojResolveAssemblyReference.cache
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.exe.config
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.exe
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.xml
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.pdb
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.vbprojResolveAssemblyReference.cache
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.DETECTOR_ANGLE.resources
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.Form1.resources
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.Resources.resources
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.vbproj.GenerateResource.Cache
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.exe
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.pdb
+F:\Users\Rohithsaradhy\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.xml
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.exe.config
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.exe
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.xml
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.pdb
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.exe
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.pdb
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.xml
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.vbprojResolveAssemblyReference.cache
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.DETECTOR_ANGLE.resources
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.Form1.resources
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.Resources.resources
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.vbproj.GenerateResource.Cache
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.SaveForm.resources
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.exe.manifest
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.application
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.exe.manifest
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.application
+C:\Users\Rohith\Documents\Visual Studio 2013\Projects\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\_2Theta_Theta_Programme.MonoCr.resources
+C:\Users\Rohithsaradhy\Google Drive\X-ray Diffraction Machine Interfacing\Programmes\2Theta-Theta Programme\2Theta-Theta Programme\bin\Debug\2Theta-Theta Programme.exe.config
+C:\Users\Rohithsaradhy\Google Drive\X-ray Diffraction Machine Interfacing\Programmes\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.exe
+C:\Users\Rohithsaradhy\Google Drive\X-ray Diffraction Machine Interfacing\Programmes\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.xml
+C:\Users\Rohithsaradhy\Google Drive\X-ray Diffraction Machine Interfacing\Programmes\2Theta-Theta Programme\2Theta-Theta Programme\obj\Debug\2Theta-Theta Programme.pdb
